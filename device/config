@@ -1,0 +1,10 @@
+# iot source config
+PROJECT_ID="iot-simulator-295301"
+PROJECT_NAME="iot-simulator"
+REGION="us-central1"
+REGISTRY_ID="iot-simulator-registry"
+DEVICE_ID="iot-simulator-device"
+KEY_PATH="./client.key"
+ALGORITHM="RS256"
+ROOT_PATH="./ca.crt"
+
