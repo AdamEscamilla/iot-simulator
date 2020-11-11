@@ -38,6 +38,7 @@ Following components are used:
 ### Configuration
 
 This is the configuration I'll be using for this setup:
+```
 PROJECT_NAME="iot-simulator"
 PROJECT_ID="iot-simulator-295301"
 REGION="us-central1"
@@ -46,7 +47,7 @@ DEVICE_ID="iot-simulator-device"
 KEY_PATH="./client.key"
 ALGORITHM="RS256"
 ROOT_PATH="./ca.crt"
-
+```
 
 ### Create Infrastructure
 
